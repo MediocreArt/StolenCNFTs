@@ -2,8 +2,27 @@
     "assets":[
         {
             "assetId":"SpaceBud2802",
+            "assetName":"SpaceBud #2802",
             "source":"SpaceBudz Discord Server",
             "dateReported": "2021-11-18"
+        },
+        {
+            "assetId":"SpaceBud5935",
+            "assetName":"SpaceBud #5935",
+            "source":"Twitter",
+            "dateReported": "2021-10-15"
+        },
+        {
+            "assetId":"SpaceBud8444",
+            "assetName":"SpaceBud #8444",
+            "source":"Twitter",
+            "dateReported": "2021-10-15"
+        },
+        {
+            "assetId":"SpaceBud1946",
+            "assetName":"SpaceBud #1946",
+            "source":"Rose CNFT Discord Server",
+            "dateReported": "2021-06-25"
         }
     ]
 }
