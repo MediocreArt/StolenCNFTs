@@ -1,0 +1,29 @@
+{
+    "policyId":"40fa2aa67258b4ce7b5782f74831d46a84c59a0ff0c28262fab21728",
+    "assets":[
+        {
+            "assetId":"ClayNation7159",
+            "assetName":"Clay Nation #7159",
+            "source":"Lovelace CNFT Discord Server",
+            "dateReported": "2021-09-13"
+        },
+        {
+            "assetId":"ClayNation729",
+            "assetName":"Clay Nation #0729",
+            "source":"Lovelace CNFT Discord Server",
+            "dateReported": "2021-09-14"
+        },
+        {
+            "assetId":"ClayNation2132",
+            "assetName":"Clay Nation #2132",
+            "source":"Lovelace CNFT Discord Server",
+            "dateReported": "2021-09-14"
+        },
+        {
+            "assetId":"ClayNation1059",
+            "assetName":"Clay Nation #1059",
+            "source":"Lovelace CNFT Discord Server",
+            "dateReported": "2021-09-14"
+        }
+    ]
+}
