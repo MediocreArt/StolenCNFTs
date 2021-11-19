@@ -1,0 +1,2 @@
+# StolenCNFTs
+Stolen CNFTs List
